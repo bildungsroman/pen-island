@@ -1,0 +1,77 @@
+/* Custom Stylesheet */
+
+/*
+Theme colors:
+blue: #1aa5c4
+light pink: #f984b1
+dark pink: #f73982
+brown: #593d37
+
+*/
+
+html, body, .block {
+  height: 100%;
+  color: #333;
+}
+
+.top-pad {
+  padding-top: 10vh;
+}
+
+.top-margin {
+  margin-top: 10vh;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+.pin-top {
+  position: relative;
+}
+
+.pin-bottom {
+  position: relative;
+}
+
+.pinned {
+  position: fixed !important;
+}
+
+/* section styles */
+.header {
+  text-align: center;
+}
+
+.header button {
+  color: #1aa5c4;
+}
+
+.block {
+  color: #fff;
+}
+
+/* text styles */
+
+.header-text {
+  font-size: 8em;
+  vertical-align: middle;
+}
+
+/* colors */
+
+.blue {
+  background-color: #1aa5c4 !important;
+}
+
+.light-pink {
+  background-color: #f984b1 !important;
+}
+
+.dark-pink {
+  background-color: #f73982 !important;
+}
